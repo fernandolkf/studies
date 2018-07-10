@@ -5,11 +5,11 @@ Repository for my studies.
 Priority list:
 
 <ul>
-  <item>Django</item>  
-  <item>Scrapper (Scrapy)</item>
-  <item>Ploty</item>
-  <item>Python tricks and tips</item>
-  <item>Keras</item>
-  <item>NPL</item>
-  <item>Bot</item>
+  <li>Django</li>  
+  <li>Scrapper (Scrapy)</li>
+  <li>Ploty</li>
+  <li>Python tricks and tips</li>
+  <li>Keras</li>
+  <li>NPL</li>
+  <li>Bot</li>
 </ul>
