@@ -10,6 +10,7 @@ Priority list:
   <li>Ploty</li>
   <li>Python tricks and tips</li>
   <li>Hadoop</li>
+  <li>Recommender Systems</li>
   <li>Keras</li>
   <li>NPL</li>
   <li>Bot</li>
